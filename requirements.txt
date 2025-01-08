@@ -5,3 +5,4 @@ torch
 py-cpuinfo
 GPUtil
 kornia
+tqdm

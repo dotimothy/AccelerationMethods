@@ -6,8 +6,9 @@ This repository serves as a case study of Hardware Acceleration Methods from bas
 <a target="_blank" href="https://colab.research.google.com/github/dotimothy/AccelerationMethods/blob/main/NumpyVsCupy.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - <a href="https://github.com/dotimothy/AccelerationMethods/blob/main/OpenCVvsKornia.ipynb">OpenCVvsKornia.ipynb</a>: A comparison between a CPU-based numerical computer vision library (Numpy) vs a differentiable GPU variant (Kornia)
-<a target="_blank" href="https://colab.research.google.com/github/dotimothy/AccelerationMethods/blob/main/OpenCVvsKornia.ipynb.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/dotimothy/AccelerationMethods/blob/main/OpenCVvsKornia.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
