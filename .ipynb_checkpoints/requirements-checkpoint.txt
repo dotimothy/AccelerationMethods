@@ -1,0 +1,8 @@
+numpy
+cupy-cuda12x
+matplotlib
+torch
+py-cpuinfo
+GPUtil
+kornia
+tqdm
